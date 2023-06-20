@@ -2,10 +2,10 @@
 
 if(isset($_POST["submit"])){
 
-$name= $_POST["name"];
+$name= $_POST["username"];
 $email= $_POST["email"];
 $username= $_POST["uid"];
-$pwd= $_POST["pwd"];
+$pwd= $_POST["password"];
 $pwdRepeat= $_POST["pwdrepeat"];
 
 require_once 'dbh.inc.php';
