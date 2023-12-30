@@ -47,13 +47,13 @@ We welcome contributions to make this project even better! Feel free to open iss
 
 ## 📧 Contact
 
-For any inquiries or support, please reach out to us at [your.email@example.com](mailto:your.email@example.com).
+For any inquiries or support, please reach out to us at [your.email@example.com](mailto:tanakachiremba2001@gmail.com).
 
 Happy reading! 📚✨
 
 ## 🚀 How it make me feel coding this GIF:
 
-![Read Me GIF 1]((https://i.gifer.com/PT7a.gif))
+![Read Me GIF 1]([https://i.gifer.com/PT7a.gif])
 
 
 Feel the excitement! Dive into the world of books with our PHP Bookstore! 📚🎉
