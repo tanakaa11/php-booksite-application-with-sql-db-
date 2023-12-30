@@ -40,11 +40,6 @@ Connect with the authors of your favorite books. Share your thoughts, appreciati
 ### 🛒 Shopping Cart
 Add books to your cart and seamlessly proceed to checkout. Enjoy a hassle-free shopping experience for both physical and digital editions.
 
-## 📸 Screenshots
-
-![Homepage](screenshots/homepage.png)
-![Book Details](screenshots/book-details.png)
-![Shopping Cart](screenshots/shopping-cart.png)
 
 ## 📝 Contributions
 
@@ -56,10 +51,9 @@ For any inquiries or support, please reach out to us at [your.email@example.com]
 
 Happy reading! 📚✨
 
-## 🚀 Inspiration GIFs
+## 🚀 How it make me feel coding this GIF:
 
-![Read Me GIF 1](https://media.giphy.com/media/l2Je8M6b9XPxjuq40/giphy.gif)
-![Read Me GIF 2](https://media.giphy.com/media/26BROrSHlmyzzHf3i/giphy.gif)
-![Read Me GIF 3](https://media.giphy.com/media/l2Je8M6b9XPxjuq40/giphy.gif)
+![Read Me GIF 1]([https://media.giphy.com/media/l2Je8M6b9XPxjuq40/giphy.gif](https://i.gifer.com/PT7a.gif))
+
 
 Feel the excitement! Dive into the world of books with our PHP Bookstore! 📚🎉
